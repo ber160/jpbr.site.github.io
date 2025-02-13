@@ -58,3 +58,7 @@ borda {
     border: 2px solid red; /* 2px de grosor, color rojo */
     padding: 20px; /* Espacio dentro del div */
 }
+footer     {
+    color: black;
+    background-color: #c3e9ce;
+}
